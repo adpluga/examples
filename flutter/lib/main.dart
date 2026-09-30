@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 
 // The public demo key: test mode, nothing is charged. Replace both with your
 // own key and slot id from the dashboard.
-const publishableKey = 'pk_test_REPLACE_WITH_DEMO_KEY';
-const slotId = 'REPLACE_WITH_DEMO_SLOT';
+const publishableKey = 'pk_test_kvhgusa3wauuklgogatyovhbohlpc';
+const slotId = '35490c85-1933-4764-bf04-647005ea6db5';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();

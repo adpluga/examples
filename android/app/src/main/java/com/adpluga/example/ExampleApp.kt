@@ -5,8 +5,8 @@ import com.adpluga.AdPluga
 
 // The public demo key: test mode, nothing is charged. Replace both with your
 // own key and slot id from the dashboard.
-const val PUBLISHABLE_KEY = "pk_test_REPLACE_WITH_DEMO_KEY"
-const val SLOT_ID = "REPLACE_WITH_DEMO_SLOT"
+const val PUBLISHABLE_KEY = "pk_test_kvhgusa3wauuklgogatyovhbohlpc"
+const val SLOT_ID = "35490c85-1933-4764-bf04-647005ea6db5"
 
 class ExampleApp : Application() {
     override fun onCreate() {
